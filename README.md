@@ -35,3 +35,4 @@ Divirta-se explorando as informações sobre as moedas brasileiras! 🚀💸
 
 🌟 Boa exploração! 🌟
 # Como-Pegar-dados-de-Dinheiro-Em-Circula-o
+# Como-Pegar-dados-de-Dinheiro-Em-Circula-o
